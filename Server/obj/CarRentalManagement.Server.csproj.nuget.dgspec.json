@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/CarRentalManagement.Server.csproj": {}
+  },
+  "projects": {
+    "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/CarRentalManagement.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/CarRentalManagement.Client.csproj",
+        "projectName": "CarRentalManagement.Client",
+        "projectPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/CarRentalManagement.Client.csproj",
+        "packagesPath": "/Users/krishmanohar/.nuget/packages/",
+        "outputPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/krishmanohar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/CarRentalManagement.Shared.csproj": {
+                "projectPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/CarRentalManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
+              "version": "[5.0.6, 5.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/CarRentalManagement.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/CarRentalManagement.Server.csproj",
+        "projectName": "CarRentalManagement.Server",
+        "projectPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/CarRentalManagement.Server.csproj",
+        "packagesPath": "/Users/krishmanohar/.nuget/packages/",
+        "outputPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/krishmanohar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/CarRentalManagement.Client.csproj": {
+                "projectPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/CarRentalManagement.Client.csproj"
+              },
+              "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/CarRentalManagement.Shared.csproj": {
+                "projectPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/CarRentalManagement.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/CarRentalManagement.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/CarRentalManagement.Shared.csproj",
+        "projectName": "CarRentalManagement.Shared",
+        "projectPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/CarRentalManagement.Shared.csproj",
+        "packagesPath": "/Users/krishmanohar/.nuget/packages/",
+        "outputPath": "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/krishmanohar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/bin/Debug/net5.0/CarRentalManagement.Shared.deps.json
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/bin/Debug/net5.0/CarRentalManagement.Shared.dll
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/bin/Debug/net5.0/ref/CarRentalManagement.Shared.dll
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/bin/Debug/net5.0/CarRentalManagement.Shared.pdb
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/Debug/net5.0/CarRentalManagement.Shared.csprojAssemblyReference.cache
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/Debug/net5.0/CarRentalManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/Debug/net5.0/CarRentalManagement.Shared.AssemblyInfoInputs.cache
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/Debug/net5.0/CarRentalManagement.Shared.AssemblyInfo.cs
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/Debug/net5.0/CarRentalManagement.Shared.csproj.CoreCompileInputs.cache
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/Debug/net5.0/CarRentalManagement.Shared.dll
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/Debug/net5.0/ref/CarRentalManagement.Shared.dll
+/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Shared/obj/Debug/net5.0/CarRentalManagement.Shared.pdb
