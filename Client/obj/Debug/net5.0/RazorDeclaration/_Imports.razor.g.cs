@@ -89,6 +89,13 @@ using CarRentalManagement.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 12 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/_Imports.razor"
+using CarRentalManagement.Client.Component;
+
+#line default
+#line hidden
+#nullable disable
     public partial class _Imports : System.Object
     {
         #pragma warning disable 1998

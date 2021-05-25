@@ -80,6 +80,13 @@ using CarRentalManagement.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 12 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/_Imports.razor"
+using CarRentalManagement.Client.Component;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 1 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/Shared/LoginDisplay.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 

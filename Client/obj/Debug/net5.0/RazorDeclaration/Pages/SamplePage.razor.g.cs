@@ -90,7 +90,7 @@ using CarRentalManagement.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/Pages/SamplePage.razor"
+#line 12 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Client/_Imports.razor"
 using CarRentalManagement.Client.Component;
 
 #line default
