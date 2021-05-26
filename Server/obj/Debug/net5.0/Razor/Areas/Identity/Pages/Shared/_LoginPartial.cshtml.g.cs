@@ -13,6 +13,20 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
+#line 2 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/Areas/Identity/Pages/_ViewImports.cshtml"
+using CarRentalManagement.Server.Areas.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/Areas/Identity/Pages/_ViewImports.cshtml"
+using CarRentalManagement.Server.Areas.Identity.Pages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 1 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/Areas/Identity/Pages/Shared/_LoginPartial.cshtml"
 using Microsoft.AspNetCore.Identity;
 
@@ -27,6 +41,8 @@ using CarRentalManagement.Server.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"dd8a7876423d83c1ab8471b1418e795132919a2e", @"/Areas/Identity/Pages/Shared/_LoginPartial.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a9f57478b0a62c54c4c2458ced3532813bd9da9b", @"/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5343dabc474ed489f2f7c2a046bcc68ac7404f1e", @"/Areas/Identity/Pages/_ViewImports.cshtml")]
     public class Areas_Identity_Pages_Shared__LoginPartial : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("nav-link text-dark"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -87,7 +103,7 @@ using CarRentalManagement.Server.Models;
 #line hidden
 #nullable disable
             WriteLiteral("    <li class=\"nav-item\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd8a7876423d83c1ab8471b1418e795132919a2e7321", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd8a7876423d83c1ab8471b1418e795132919a2e8150", async() => {
                 WriteLiteral("Hello ");
 #nullable restore
 #line 18 "/Users/krishmanohar/Desktop/KrishDevelopmentProjects/CarRentalManagement/Server/Areas/Identity/Pages/Shared/_LoginPartial.cshtml"
@@ -115,7 +131,7 @@ using CarRentalManagement.Server.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n    </li>\r\n    <li class=\"nav-item\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd8a7876423d83c1ab8471b1418e795132919a2e9246", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd8a7876423d83c1ab8471b1418e795132919a2e10075", async() => {
                 WriteLiteral("\r\n            <button  type=\"submit\" class=\"nav-link btn btn-link text-dark\">Logout</button>\r\n        ");
             }
             );
@@ -154,7 +170,7 @@ else
 #line hidden
 #nullable disable
             WriteLiteral("    <li class=\"nav-item\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd8a7876423d83c1ab8471b1418e795132919a2e12049", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd8a7876423d83c1ab8471b1418e795132919a2e12879", async() => {
                 WriteLiteral("Register");
             }
             );
@@ -188,7 +204,7 @@ else
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n    </li>\r\n    <li class=\"nav-item\">\r\n        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd8a7876423d83c1ab8471b1418e795132919a2e14636", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dd8a7876423d83c1ab8471b1418e795132919a2e15466", async() => {
                 WriteLiteral("Login");
             }
             );
